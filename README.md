@@ -1,5 +1,7 @@
 <a href="https://lacework.com"><img src="https://techally-content.s3-us-west-1.amazonaws.com/public-content/lacework_logo_full.png" width="600"></a>
 
+[![IaC](https://app.soluble.cloud/api/v1/public/badges/e9a5db5c-b0d2-4225-9c3e-dcd43cabaca8.svg)](https://app.soluble.cloud/repos/details/github.com/marcosgm/terraform-azure-activity-log)  [![CIS](https://app.soluble.cloud/api/v1/public/badges/ae188581-c36f-403d-8b87-7856f0d08187.svg)](https://app.soluble.cloud/repos/details/github.com/marcosgm/terraform-azure-activity-log)  
+
 # terraform-azure-activity-log
 
 [![GitHub release](https://img.shields.io/github/release/lacework/terraform-azure-activity-log.svg)](https://github.com/lacework/terraform-azure-activity-log/releases/)
